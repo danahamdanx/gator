@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1783972653313,
+      "tag": "0000_heavy_wallop",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1784037302573,
+      "tag": "0001_outgoing_virginia_dare",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1784047082472,
+      "tag": "0002_milky_boomerang",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1784130638813,
+      "tag": "0003_silky_sunspot",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1784132360995,
+      "tag": "0004_massive_jack_power",
+      "breakpoints": true
+    }
+  ]
+}
